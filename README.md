@@ -72,12 +72,6 @@ Use `Transformer.ipynb` to run the full forward pass and test translation.
 
 ---
 
-## 📄 License
-
-MIT License.
-
----
-
 ## ✨ Acknowledgements
 
 Inspired by the original Transformer paper:  
