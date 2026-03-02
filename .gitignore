@@ -1,0 +1,5 @@
+*.pth
+*.csv
+*.jsonl
+opus100_de_en/
+multi30k/
